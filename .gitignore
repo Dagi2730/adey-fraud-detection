@@ -209,3 +209,8 @@ __marimo__/
 
 # Ignore all CSV files in the data folder
 data/*.csv
+
+# Ignore model and preprocessing binary files
+*.pkl
+*.joblib
+*.pickle
